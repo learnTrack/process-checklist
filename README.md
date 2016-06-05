@@ -1,7 +1,7 @@
 # process-checklist
 From idea to implementation
 
-### These following steps are for one feature at the time
+### The following steps are for one feature at a time
 
 1. Do basic wireframes based on your PO (product owner) requirements.
 2. Determine user actions, blocked actions (what user can not do) and write all possible questions you may have.
